@@ -1,4 +1,4 @@
-name: Laravel
+name: CICD Pipeline
 
 on:
   push:
